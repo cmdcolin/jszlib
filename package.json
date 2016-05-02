@@ -1,6 +1,6 @@
 {
 	"name": "jszlib",
-	"version":"0.1",
+	"version":"0.0.1",
 	"directories": {
 		"lib": "."
 	},
@@ -12,7 +12,7 @@
 				 "url": "http://raw.github.com/rbuels/jszlib/master/LICENSE.txt"
 		 }
 	],
-	"bugs": "http://github.com/rbuels/jszlib/issues",
+	"bugs": "http://github.com/cmdcolin/jszlib/issues",
 	"keywords": ["JavaScript", "zlib", "unzip", "compression"],
 	"dojoBuild": "jszlib.profile.js"
 }
